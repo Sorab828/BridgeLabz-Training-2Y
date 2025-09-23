@@ -1,1 +1,1 @@
-# BridgeLabz Training
+# Core Java
