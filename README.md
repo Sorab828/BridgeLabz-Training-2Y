@@ -1,1 +1,1 @@
-# BridgeLabz Training
+# Java Fundamental
